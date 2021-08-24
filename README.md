@@ -43,9 +43,11 @@ Popular Orchestrators:
 
 * [Google Borg](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf) - Google's Borg system is a cluster manager that runs hundreds of thousands of jobs, from many thousands of different applications, across a number of clusters each with up to tens of thousands of machines. This private infrastructure runs the lion share of Google's services.
 
-Links:
-* [Container Orchestration](https://www.redhat.com/en/topics/containers/what-is-container-orchestration)
+Primary Link:
 * [What is container orchestration?](https://blog.newrelic.com/engineering/container-orchestration-explained/)
+
+Supporting Links:
+* [Container Orchestration](https://www.redhat.com/en/topics/containers/what-is-container-orchestration)
 * [Kubernetes predecessor](https://kubernetes.io/blog/2015/04/borg-predecessor-to-kubernetes/)
 
 why kubernetes?
